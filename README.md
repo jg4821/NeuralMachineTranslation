@@ -13,6 +13,6 @@ $ python main.py --encoder 'bigru' --decoder 'gruattn' --n_directions 2 --use_at
 ```
 
 ### Contributors
-Jiayi Gao
-Sylvie Shao
-Wei Zhang
+  - Jiayi Gao
+  - Sylvie Shao
+  - Wei Zhang
